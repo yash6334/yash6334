@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash-agarwal-cse314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yash-agarwal-cse314" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-agarwal-cse314" target="blank"><img align="center" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png" alt="yash-agarwal-cse314" height="30" width="40" /></a>
 <a href="https://medium.com/@yash.cse314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yash.cse314" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yash6334" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash6334" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yash314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yash314" height="30" width="40" /></a>
