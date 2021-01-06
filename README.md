@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yash-agarwal-cse314" target="blank"><img align="center" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-24x24.png" alt="yash-agarwal-cse314" height="30" width="40" /></a>
-<a href="https://medium.com/@yash.cse314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yash.cse314" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yash-agarwal-cse314" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="yash-agarwal-cse314" height="30" width="40" /></a>
+<a href="https://medium.com/@yash.cse314" target="blank"><img align="center" src="https://camo.githubusercontent.com/a583b5ce3b463c784cb87592b3da7b9b9d014d7a16adfff04b91cb1452ae4ca2/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d656469756d2e737667" alt="@yash.cse314" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yash6334" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yash6334" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yash314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yash314" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yash6334" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="yash6334" height="30" width="40" /></a>
